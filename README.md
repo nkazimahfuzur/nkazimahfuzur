@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkazimahfuzur&show_icons=true&locale=en" alt="nkazimahfuzur" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nkazimahfuzur&theme=onedark&border_radius=5)](https://git.io/streak-stats)
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nkazimahfuzur&theme=onedark&border_radius=5)](https://git.io/streak-stats)></p>
